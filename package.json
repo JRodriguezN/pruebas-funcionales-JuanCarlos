@@ -1,0 +1,23 @@
+{
+  "name": "pruebas-funcionales-juancarlos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRodriguezN/pruebas-funcionales-JuanCarlos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRodriguezN/pruebas-funcionales-JuanCarlos/issues"
+  },
+  "homepage": "https://github.com/JRodriguezN/pruebas-funcionales-JuanCarlos#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
